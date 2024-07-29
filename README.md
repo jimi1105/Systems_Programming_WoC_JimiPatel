@@ -17,13 +17,13 @@ VCS is a simple version control system that allows you to manage changes to file
 - **Remove Added Files**: Clear the index of added files.
 - **Status**: Show the status of files in the working directory.
 
-python main.py init
-python main.py add <file>
-python main.py commit -m <message>
-python main.py rmcommit
-python main.py log
-python main.py checkout <commit-hash>
-python main.py push <destination-path>
-python main.py rmadd
-python main.py status
-python main.py help
+python main.py init.
+python main.py add <file>.
+python main.py commit -m <message>.
+python main.py rmcommit.
+python main.py log.
+python main.py checkout <commit-hash>.
+python main.py push <destination-path>.
+python main.py rmadd.
+python main.py status.
+python main.py help.
